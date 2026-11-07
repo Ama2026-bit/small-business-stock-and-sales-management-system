@@ -1,0 +1,9 @@
+# Local business records and backups
+/business_data.json
+/sales_records_backup.json
+/sales_records_backup_*.json
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
